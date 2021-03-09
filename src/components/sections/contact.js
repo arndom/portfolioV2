@@ -42,6 +42,7 @@ const StyledContentWrapper = styled(ContentWrapper)`
         margin-bottom: 3rem;
       }
       .avatar {
+        filter: grayscale(30%) contrast(1) brightness(50%);
         width: 100%;
         max-width: 8.75rem;
         border-radius: 50%;
