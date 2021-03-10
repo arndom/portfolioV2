@@ -19,7 +19,7 @@ module.exports = {
       text: "#000000",
       subtext: "#555555",
       background: "#b8c6db",
-      card: "#abb7c9",
+      card: "#ccd7e8",
       scrollBar: "rgba(0, 0, 0, 0.5)",
       boxShadow: "rgba(0, 0, 0, 0.16)",
       boxShadowHover: "rgba(0, 0, 0, 0.32)",
