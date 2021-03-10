@@ -14,7 +14,7 @@ module.exports = {
   colors: {
     lightTheme: {
       primary: "#333131",
-      secondary: "#FFF4D9",
+      secondary: "#fffaed",
       tertiary: "#F2F2F2",
       text: "#000000",
       subtext: "#555555",
